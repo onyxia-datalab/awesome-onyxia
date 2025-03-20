@@ -23,7 +23,7 @@ Repositories that contribute to the main infrastructure of Onyxia.
 ### 🔐 Authentication & Security  
 Tools for managing identity and access control in Onyxia.  
 
-- [Keycloakify(https://github.com/keycloakify/keycloakify) – Custom Keycloak themes and branding for Onyxia authentication.  
+- [Keycloakify](https://github.com/keycloakify/keycloakify) – Custom Keycloak themes and branding for Onyxia authentication.  
 
 
 
