@@ -17,7 +17,8 @@ Repositories that contribute to the main infrastructure of Onyxia.
  
 
 ### 🖥️ Integrations & Extensions  
- 
+
+ - [Statistics Norway UX plugins](https://github.com/statisticsnorway/onyxia/blob/ssb-assets/web/public/custom-resources/README.md) - A collection of custom resources (both CSS and JS), like a price estimator and a specialized text field validator plugin for Onyxia Web.
 
 
 ### 🔐 Authentication & Security  
