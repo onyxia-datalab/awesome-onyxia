@@ -26,5 +26,9 @@ Tools for managing identity and access control in Onyxia.
 
 - [Keycloakify](https://github.com/keycloakify/keycloakify) – Custom Keycloak themes and branding for Onyxia authentication.  
 
+### 📘 Installation & Documentation
+
+- [Official documentation](https://docs.onyxia.sh/) - Official documentation explaining how to install and use Onyxia.
+- [Onyxia On-Prem Setup & Auth](https://mickael-baron.fr/blog/2026/01/13/setup-onyxia-onpremise-en) - A Guide to Deploying Onyxia On-Premises: basic installation and user account management with Keycloak.
 
 
